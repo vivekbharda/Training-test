@@ -1,0 +1,9 @@
+What will be the output of the following code snippet?
+
+<script type="text/javascript" language="javascript">
+  
+var a = "Scaler";
+var result = a.substring(2, 4);
+document.write(result);
+  
+</script>
