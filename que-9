@@ -1,0 +1,9 @@
+What will be the output for the following code snippet?
+
+<p id="example"></p>  
+<script>  
+function Func()  
+{  
+document.getElementById("example").innerHTML=Math.sqrt(81);  
+}  
+</script>

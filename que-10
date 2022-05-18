@@ -1,0 +1,10 @@
+What will be the output of the following code snippet?
+
+var a = 1;  
+var b = 0;  
+while (a <= 3)  
+{  
+   a++;  
+   b += a * 2;  
+   print(b);
+}

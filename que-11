@@ -1,0 +1,6 @@
+What will be the output of the following code snippet?
+
+var a = Math.max();
+var b = Math.min();
+print(a);
+print(b);

@@ -1,0 +1,4 @@
+What will be the output of the following code snippet?
+
+const obj1 = {first: 20, second: 30, first: 50};
+console.log(obj1);

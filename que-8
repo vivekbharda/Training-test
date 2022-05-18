@@ -1,0 +1,8 @@
+What will be the output of the following code snippet?
+
+(function(a){
+ return (function(){
+   console.log(a);
+   a = 6;
+ })()
+})(21);
