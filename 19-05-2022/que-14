@@ -1,0 +1,9 @@
+Which one of the following is correct output for the following given JavaScript code:
+
+<p id="demo"></p>  
+<script>  
+functionourFunction()  
+{  
+document.getElementById("demo").innerHTML=Math.abs(-7.25);  
+}  
+</script>  
