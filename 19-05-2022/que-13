@@ -1,0 +1,6 @@
+function display1(option)  
+{  
+    return(option ?  "true" :  "false");  
+}  
+    bool ans=true;  
+console.log(display1(ans));  
