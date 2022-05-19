@@ -1,0 +1,11 @@
+Find out the correct output of the following given piece of code from the given options:
+
+functionfun()  
+{  
+    int y=10;  
+    char z=10;  
+    if(y.tostring() === z)  
+        return true;  
+    else  
+        return false;  
+}  
