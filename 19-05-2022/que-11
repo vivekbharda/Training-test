@@ -1,5 +1,5 @@
 See the given code of JavaScript and choose the correct output from the following:
 
 var string1 = "40";  
-varvalueinit = 50;  
+var intvalue = 50;  
 alert( string1 + intvalue); 

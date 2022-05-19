@@ -1,6 +1,8 @@
-function display1(option)  
-{  
-    return(option ?  "true" :  "false");  
+Which one of the following is correct output for the following given JavaScript code:
+
+functionheight()  
+{     
+var  height=123.56;  
+var type =(height>=190)?"Taller":"Little short";  
+return type;  
 }  
-    bool ans=true;  
-console.log(display1(ans));  
