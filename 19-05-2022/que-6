@@ -1,0 +1,10 @@
+What will be the output of the following JavaScript code?
+
+functioncomparison()  
+{  
+int number = 10;  
+if(number === "10")  
+return true;  
+else  
+return false;  
+}  
